@@ -1,4 +1,4 @@
 # PhotoWall
 A simple photo wall
 
-![img](/Users/liuyu/Pictures/photowall.png )
+![img](https://github.com/NOTHINGYQ/PhotoWall/blob/master/img/photowall.png)
